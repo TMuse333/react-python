@@ -27,9 +27,9 @@ function App() {
   return (
     <div className='bg'>
      
-   
-     <h1 className='banner'>python + react</h1>
-     
+     <div className='banner'>
+     <h1></h1>
+     </div>
      
 
       <Calculator onCalculate={handleCalculate} result={result} />

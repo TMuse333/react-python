@@ -1,0 +1,21 @@
+
+
+.bg{
+  background-color: #282c34;
+  height: 110vh;
+  margin-top:-1.3rem;
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
+
+.banner{
+  background-color: red;
+ width: max-content;
+ height: min-content;
+ 
+
+
+
+}
+

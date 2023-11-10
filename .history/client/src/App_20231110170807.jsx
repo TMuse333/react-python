@@ -27,7 +27,7 @@ function App() {
   return (
     <div className='bg'>
      
-   
+     <div >
      <h1 className='banner'>python + react</h1>
      
      
